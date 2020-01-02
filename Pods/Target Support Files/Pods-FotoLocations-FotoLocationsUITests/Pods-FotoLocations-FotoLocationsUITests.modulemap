@@ -1,0 +1,6 @@
+framework module Pods_FotoLocations_FotoLocationsUITests {
+  umbrella header "Pods-FotoLocations-FotoLocationsUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

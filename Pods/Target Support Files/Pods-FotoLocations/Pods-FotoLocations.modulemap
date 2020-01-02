@@ -1,0 +1,6 @@
+framework module Pods_FotoLocations {
+  umbrella header "Pods-FotoLocations-umbrella.h"
+
+  export *
+  module * { export * }
+}
